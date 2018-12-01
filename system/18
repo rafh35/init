@@ -1,0 +1,2 @@
+su -  /etc/init.d/ssh stop
+[Enter] ~.

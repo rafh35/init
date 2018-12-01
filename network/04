@@ -1,0 +1,1 @@
+netstat -rn | grep UGS | tr -s " " | cut -d" " -f2
